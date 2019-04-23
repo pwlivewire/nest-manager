@@ -1,35 +1,22 @@
-<p style="font-size: 15px;"><strong>V5.1.4 (July 21st, 2017):</strong><p>
+<p style="font-size: 15px;"><strong>V5.4.1 (September 8th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>FIXED:</strong> The bug discovered with Storing the Images to ST is not entirely fixed but is now handled correctly and reporting the error.</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks</li>
 </ul>
 <br>
-<p style="font-size: 15px;"><strong>V5.1.2 (June 21st, 2017):</strong><p>
+
+<p style="font-size: 15px;"><strong>V5.3.8 (July 30th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> On motion events, camera takes snapshot if streaming is on.  If Nest account has Nest Aware, this stores the motion event taken by Nest Aware.</li>
+    <li><strong>ADDED:</strong> Now Supports filtering of Motion Zones when using Nest Aware and NST Streaming Service</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks</li>
 </ul>
 <br>
-<p style="font-size: 15px;"><strong>V5.1.1 (June 17th, 2017):</strong><p>
+
+<p style="font-size: 15px;"><strong>V5.3.7 (July 4th, 2018):</strong><p>
 <hr noshade>
 <ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Fixed command calls</li>
-</ul>
-<br>
-<p style="font-size: 15px;"><strong>V5.1.0 (June 5th, 2017):</strong><p>
-<hr noshade>
-<ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> version number updated to match 5.1.x</li>
-</ul>
-<br>
-<p style="font-size: 15px;"><strong>V5.0.6 (May 25th, 2017):</strong><p>
-<hr noshade>
-<ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Updates to healthcheck parameters & optimizations</li>
-</ul>
-<br>
-<p style="font-size: 15px;"><strong>V5.0.5 (May 13th, 2017):</strong><p>
-<hr noshade>
-<ul style="font-size: 12px; padding: 0 10px 0 10px; Margin: 0;">
-    <li><strong>UPDATED:</strong> Removed capability that is not available (Notification) & optimizations</li>
+    <li><strong>FIXED:</strong> Performance optimizations</li>
+    <li><strong>FIXED:</strong> HTML Optimizations</li>
+    <li><strong>FIXED:</strong> Bug Fixes / Tweaks.</li>
 </ul>
